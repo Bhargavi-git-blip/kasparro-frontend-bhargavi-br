@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Content Quality",
+    "score": 85,
+    "insights": ["High-quality content detected."],
+    "issues": ["Some pages have thin content."],
+    "recommendations": ["Add more content to thin pages."]
+  },
+  {
+    "id": "2",
+    "name": "Backlinks",
+    "score": 70,
+    "insights": ["Strong backlink profile."],
+    "issues": ["Few backlinks from high-authority domains."],
+    "recommendations": ["Acquire high-authority backlinks."]
+  },
+  {
+    "id": "3",
+    "name": "Keyword Coverage",
+    "score": 65,
+    "insights": ["Core keywords covered."],
+    "issues": ["Non-branded keywords under-optimized."],
+    "recommendations": ["Expand keyword targeting."]
+  }
+]
